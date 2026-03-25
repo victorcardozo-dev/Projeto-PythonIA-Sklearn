@@ -1,7 +1,7 @@
 # Projeto-PythonIA-Sklearn
  Projeto de Previsão com Machine Learning usando o –U scikit-learn
 
-## Funcionalidades
+## Apresentação do projeto
 
 - Nesse projeto de previsão com Machine Learning vamos fazer uma análise de Score de cliente em um banco. 
 
